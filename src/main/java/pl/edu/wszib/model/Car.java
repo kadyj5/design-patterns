@@ -6,6 +6,7 @@ import java.util.Map;
 
 @Builder
 @Data
+@AllArgsConstructor
 public class Car {
     @NonNull
     private final String name;
