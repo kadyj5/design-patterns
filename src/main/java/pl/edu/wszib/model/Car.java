@@ -1,6 +1,10 @@
 package pl.edu.wszib.model;
 
-import lombok.*;
+import lombok.Builder;
+import lombok.Data;
+import lombok.AllArgsConstructor;
+import lombok.Singular;
+import lombok.NonNull;
 
 import java.util.Map;
 
